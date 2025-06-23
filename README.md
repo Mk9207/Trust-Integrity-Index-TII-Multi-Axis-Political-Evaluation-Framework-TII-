@@ -56,10 +56,5 @@ Trust-Integrity-Index-TII/
 * International Policy Benchmarks (phase TII-11+)
 
 ---
-
-## 📬 Contact & License
-
-This is a research-grade framework under active development. POS and TII are part of an AI-assisted civic ethics architecture.
-
-MIT License © 2025
-Maintained by Mk9207
+## ライセンス
+本プロジェクトは [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) のもとに公開されています。
